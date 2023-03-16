@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on UFU
-- 🌱 I’m currently learning javascript, HTML, CSS, React.
-- 🤔 I’m looking for help to find a new job on frontend development area.
+- 🔭 I'm electrical engineer.
+- 🌱 I’m currently learning javascript, Java, SQL, Spring.
+- 🤔 I’m looking for help to find a new job on backend development area.
 - 💬 Ask me about literacture, TV Shows, moovies, History.
 - 📫 How to reach me: matheush.1998@hotmail.com
 - 😄 Pronouns: he/him
